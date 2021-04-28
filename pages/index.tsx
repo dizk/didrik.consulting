@@ -7,7 +7,7 @@ export default function Home() {
             <div className="mt-20 flex items-end">
                 <Image src="/didrik_white.svg" height={95} width={250}/>
             </div>
-            <div className="mt-40">
+            <div className="mt-20 md:mt-40">
                 <h1 className="text-3xl md:text-7xl text-white font-display">Restful APIs written in Java</h1>
             </div>
             <div className="mt-2">
