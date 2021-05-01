@@ -7,9 +7,9 @@ export default function Home() {
             <div className="mt-20 flex items-end">
                 <Image src="/didrik_white.svg" height={95} width={250}/>
             </div>
-            <div>
-                <Image src="/portrait.png" className="object-contain" height={700} width={700} />
-            </div>
+            {/*<div>*/}
+            {/*    <Image src="/portrait.png" className="object-contain" height={700} width={700} />*/}
+            {/*</div>*/}
             <div>
                 <h1 className="text-3xl md:text-7xl text-white font-display">Restful APIs written in Java</h1>
             </div>
