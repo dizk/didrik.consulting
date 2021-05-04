@@ -19,7 +19,7 @@ export default function Home() {
             <div className="mt-2">
                 <h1 className="text-3xl md:text-7xl text-white font-display">Docker, Kubernetes</h1>
             </div>
-            <div className="mt-24">
+            <div className="mt-24 mb-64">
                 <h1 className="text-4xl md:text-9xl text-white font-display">Interested?</h1>
                 <p className="text-white">Sling an email to didrik@didrik.consulting</p>
             </div>
